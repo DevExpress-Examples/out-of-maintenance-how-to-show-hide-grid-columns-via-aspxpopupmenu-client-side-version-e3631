@@ -1,7 +1,5 @@
 using System;
-using DevExpress.Web.ASPxMenu;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page {
     protected void Page_Load(object sender, EventArgs e) {

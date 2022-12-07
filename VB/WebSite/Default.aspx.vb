@@ -1,8 +1,6 @@
 Imports Microsoft.VisualBasic
 Imports System
-Imports DevExpress.Web.ASPxMenu
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
